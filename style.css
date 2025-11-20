@@ -1,0 +1,73 @@
+body{
+
+    background: #fff url(../images/background.gif)
+
+    repeat-x center 187px;
+
+    color:#585858;
+
+    font-family:Arial;
+
+    font-size:14px;
+
+    margin:0;
+
+    min-width: 960px;
+
+    }
+
+    al
+
+    outline:none;
+
+    img{
+
+    border:none;
+
+    }
+
+    #header div#section:after, #header ul:after, #content div:after, #content div ul.services:after, #footer div:after, #footer div div.section ul:after{
+
+    clear:both;
+
+    content:"";
+
+    display:block;
+
+    font-size:0;
+
+    height:0;
+
+    visibility:hidden;
+
+    }
+
+    #content {
+
+    background:url(../images/bg-content.gif) no-
+
+    repeat top center;
+
+    margin:0 auto;
+
+    min-height:174px;
+
+    overflow:hidden;
+
+    position:relative;
+
+    width: 960px;
+
+    }
+
+    #footer{
+
+    background: #274F75 url(../images/bg-footer.
+
+    gif) repeat-x;
+
+    min-height:113px;
+
+    width:100%;
+
+    }
